@@ -166,7 +166,7 @@ h2 {
 }
 
 #loginHolder input{
-    color: #00FF00;
+    color: #e46d0b;
        font-weight: bold;
        border-style: none;
        background-color: black;
@@ -199,7 +199,7 @@ h2 {
 #caption {
     margin: 30px auto;
     width: 800px;
-    color: #e46d0b;
+    color: #4379D1;
     font-weight: bold;
     font-size: 20px;
     font-family: Arial, Verdana, Sans-Serif;
